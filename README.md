@@ -99,8 +99,3 @@ This project demonstrates how **AI multi-agent systems can assist financial deci
 This project is for **educational and research purposes**.  
 
 
----
-
-## 👨‍💻 Author
-
-Developed as an AI + Finance portfolio project.
