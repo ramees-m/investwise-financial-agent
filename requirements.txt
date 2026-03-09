@@ -1,0 +1,6 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+yfinance
+typing_extensions
